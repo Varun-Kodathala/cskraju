@@ -4,8 +4,48 @@
     <meta charset="utf-8">
     <link rel="stylesheet" href="gallery.css">
     <title></title>
+    <style>
+      ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+      }
+
+      li {
+        float: left;
+      }
+
+      li a {
+        display: inline-block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+
+      li a:hover {
+        background-color: #111;
+      }
+
+      .active {
+        background-color: red;
+      }
+      </style>
   </head>
   <body>
+    <ul>
+  <li><a href="index.html" class="active">Home</a></li>
+  <li><a href="edu.html">Education</a></li>
+  <li><a href="awards.html">Awards</a></li>
+  <li><a href="resume.html">Resume</a></li>
+  <li><a href="#">Gallery</a></li>
+  <li><a href="research.html">Research</a></li>
+  <li><a href="memberships.html">Membership</a></li>
+  <li><a href="teac.html">Teaching</a></li>
+  <li><a href="contact.html">Contact</a></li>
+</ul>
 <div class="one">
     <img src="main.jpg" width="1450" height="1450"  class="rotateimg270">
 </div>
