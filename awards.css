@@ -2,7 +2,7 @@
   text-align: center;
   margin-top: 2%;
   font-family: 'Alegreya', serif;
-  color: black;
+  color: white;
 
 }
 body{
@@ -12,6 +12,7 @@ body{
   height: 800px;
   background-position: center;
   background-size: cover;
+  color: white;
 }
 .container{
   margin-top: 5%;
@@ -21,12 +22,12 @@ body{
   color: black;
 } */
 .table.table-bordered{
-    border:1px solid blue;
+    border:1px solid white;
     margin-top:40px;
   }
 .table.table-bordered > thead > tr > th{
-    border:1px solid black;
+    border:1px solid white;
 }
 .table.table-bordered > tbody > tr > td{
-    border:1px solid black;
+    border:1px solid white;
 }
