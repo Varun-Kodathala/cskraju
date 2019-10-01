@@ -5,6 +5,16 @@
   
 
 }
+
+body{
+   
+  background: url("research.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    
+}
 .expert{
   font-family: 'Source Serif Pro', serif;
   margin-top: 2%;
