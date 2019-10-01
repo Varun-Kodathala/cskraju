@@ -5,14 +5,12 @@
   font-family: 'Alegreya', serif;
 
 }
-body{
-    background-image: url("awardss.jpg");
-}
+
 .bots{
     color: white;
    
     margin-bottom:100%;
-  
+  background-image: url("awardss.jpg");
   background-repeat: no-repeat,repeat;
   height: 500px;
   background-position: center;
