@@ -11,6 +11,7 @@ body{
   height: 800px;
   background-position: center;
   background-size: cover;
+  background-image: url("awards.jpg");
 }
 .container{
   margin-top: 5%;
