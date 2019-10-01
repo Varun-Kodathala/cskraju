@@ -2,7 +2,7 @@ body {
   
 /*   background-image: url("degree.jpg"); */
   border: solid black 5px;
-  text-align: center;
+/*   text-align: center; */
 /*   margin-top: 2%; */
 /*   background-repeat: no-repeat,repeat; */
 /*   height: 100%; */
@@ -15,7 +15,7 @@ body {
   font-family: 'Source Serif Pro', serif;
   text-align: center;
   margin-top: 2%;
-  border-style: solid;
+/*   border-style: solid; */
   font-family: 'Alegreya', serif;
 }
 
