@@ -19,6 +19,34 @@ body{
   
   background-position: center;
   background-size: cover;
-  
-  
+    
 }
+#divone{
+  font-family: 'Source Serif Pro', serif;
+  margin-top: 2%;
+  border-style: solid;
+  padding:2%;
+}
+#divtwo{
+  font-family: 'Source Serif Pro', serif;
+  margin-top: 2%;
+  border-style: solid;
+  padding:2%;
+}
+#divthree{
+  font-family: 'Source Serif Pro', serif;
+  margin-top: 2%;
+  border-style: solid;
+  padding:2%;
+}
+#one{
+  text-align: center;
+}
+#two{
+  text-align: center;
+}
+  #three{
+  text-align: center;
+}
+  
+  
