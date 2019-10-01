@@ -26,7 +26,8 @@ body{
   margin-top: 2%;
   border-style: solid;
   padding-left:2%;
-  padding-right:2%; 
+  padding-right:2%;
+  font-size:150%;
 }
 #divtwo{
   font-family: 'Source Serif Pro', serif;
