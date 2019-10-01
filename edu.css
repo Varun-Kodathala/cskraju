@@ -25,9 +25,9 @@
 body {
   
 /*   background-image: url("degree.jpg"); */
+  border: solid black 5px;
   text-align: center;
 /*   margin-top: 2%; */
-  border-style: solid black 5px;
 /*   background-repeat: no-repeat,repeat; */
 /*   height: 100%; */
   
