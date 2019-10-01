@@ -6,8 +6,12 @@ height: 900mm;
 
 }
 #two{
+ 
   text-align: center;
+  margin-top: 2%;
   font-family: 'Alegreya', serif;
+  color: black ;
+  border: solid 1px; 
 
 }
 body{
