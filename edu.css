@@ -8,9 +8,14 @@
 
 #ee{
     margin-top:2%;
-  
-  
 }
+.table{
+ text-align:center;
+ border: solid black 2px;
+ font-size: 1.5em;
+ width: 70%;
+}
+
 
 #row{
   padding-top:2%;
