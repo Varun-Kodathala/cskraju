@@ -12,6 +12,9 @@ body{
   background-position: center;
   background-size: cover;
 }
-#tabl{
-  align:center;
+#table{
+  text-align:center;
+  border: solid black 2px;
+  font-size: 1.5em;
+  width: 70%;
 }
