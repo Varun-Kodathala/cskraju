@@ -7,9 +7,12 @@
 }
 #bod{
   border-style: solid;
-  background-image: url("teaching.jpg");
-  background-repeat: no-repeat,repeat;
+ 
 padding-left: 2%;
 padding-top: 2%;
 padding-bottom: 2%;
+}
+body{
+   background-image: url("edu.jpg");
+  background-repeat: no-repeat,repeat;
 }
