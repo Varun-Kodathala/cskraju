@@ -13,26 +13,18 @@
   text-align: center;
   margin-top: 2%;
   border-style: solid;
-  font-family: 'Alegreya', serif;
-  width:90%;
-  padding-right:8%;
-  padding-left:8%; 
+/*   width:90%; */
+/*   padding-right:8%; */
+/*   padding-left:8%;  */
 }
 
 #row{
   padding-top:2%;
   padding-bottom:8%;
 }
-#bb{
-  font-family: 'Source Serif Pro', serif;
-  margin-top: 2%;
-  border-style: solid;
-  padding:2%;
-  padding-right:2%; 
-}
 body {
   
-  background-image: url("degree.jpg");
+/*   background-image: url("degree.jpg"); */
   background-repeat: no-repeat,repeat;
   height: 100%;
   
