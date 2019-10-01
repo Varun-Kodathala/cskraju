@@ -1,23 +1,23 @@
 #head1{
+    color: white;
   text-align: center;
   margin-top: 2%;
   font-family: 'Alegreya', serif;
-  color: white;
 
 }
 body{
+    color: white;
    background-image: url("awardss.jpg");
   
   background-repeat: no-repeat,repeat;
   height: 500px;
   background-position: center;
   background-size: cover;
-  color: white;
 }
 .container{
+    color: white;
   margin-top: 5%;
   font-style: oblique;
-  color: white;
 }
 /* #text{
   color: black;
