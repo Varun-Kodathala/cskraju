@@ -12,9 +12,10 @@ body{
   background-position: center;
   background-size: cover;
 }
-#table{
-  text-align:center;
-  border: solid black 2px;
-  font-size: 1.5em;
-  width: 70%;
+
+.table{
+ text-align:center;
+ border: solid black 2px;
+ font-size: 1.5em;
+ width: 70%;
 }
