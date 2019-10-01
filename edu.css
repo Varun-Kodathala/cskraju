@@ -24,10 +24,10 @@
   font-family: 'Source Serif Pro', serif;
   text-align: center;
   margin-top: 2%; */
-  padding-top:2%;
-  padding-bottom:2%;
   border-style: solid;
   border: solid black 5px;
+    padding-top:2%;
+  padding-bottom:2%;
 /*   width:90%; */
 /*   padding-right:8%; */
 /*   padding-left:8%;  */
