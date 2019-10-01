@@ -2,7 +2,7 @@
   color: red;
   font-size: 1.5em;
 }
-body{
+html{
    
   background: url("_con.jpg") no-repeat center center fixed; 
   -webkit-background-size: cover;
