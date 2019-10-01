@@ -27,7 +27,7 @@ body{
   border-style: solid;
   padding-left:2%;
   padding-right:2%;
-  font-size:200%;
+  font-size:150%;
 }
 #divtwo{
   font-family: 'Source Serif Pro', serif;
@@ -35,6 +35,7 @@ body{
   border-style: solid;
   padding-left:2%;
   padding-right:2%; 
+  font-size:150%;
 }
 #divthree{
   font-family: 'Source Serif Pro', serif;
@@ -42,6 +43,7 @@ body{
   border-style: solid;
   padding:2%;
   padding-right:2%; 
+  font-size:150%;
 }
 #one{
   text-align: center;
