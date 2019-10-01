@@ -1,5 +1,17 @@
-
-  #head{
+body {
+  
+/*   background-image: url("degree.jpg"); */
+  border: solid black 5px;
+  text-align: center;
+/*   margin-top: 2%; */
+/*   background-repeat: no-repeat,repeat; */
+/*   height: 100%; */
+  
+/*   background-position: center; */
+/*   background-size: cover; */
+}
+  
+#head{
   font-family: 'Source Serif Pro', serif;
   text-align: center;
   margin-top: 2%;
@@ -21,16 +33,4 @@
 #row{
   padding-top:2%;
   padding-bottom:8%;
-}
-body {
-  
-/*   background-image: url("degree.jpg"); */
-  border: solid black 5px;
-  text-align: center;
-/*   margin-top: 2%; */
-/*   background-repeat: no-repeat,repeat; */
-/*   height: 100%; */
-  
-/*   background-position: center; */
-/*   background-size: cover; */
 }
