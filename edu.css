@@ -19,11 +19,13 @@
   font-family: 'Alegreya', serif;
 }
 
-/* .table{
- 
+#ee{
+/*  
   font-family: 'Source Serif Pro', serif;
   text-align: center;
-  margin-top: 2%;
+  margin-top: 2%; */
+  padding-top:2%;
+  padding-bottom:2%;
   border-style: solid;
 /*   width:90%; */
 /*   padding-right:8%; */
