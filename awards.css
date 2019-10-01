@@ -23,12 +23,15 @@ body{
   color: black;
 } */
 .table.table-bordered{
+      color: white;
     border:1px solid white;
     margin-top:40px;
   }
 .table.table-bordered > thead > tr > th{
+      color: white;
     border:1px solid white;
 }
 .table.table-bordered > tbody > tr > td{
+      color: white;
     border:1px solid white;
 }
