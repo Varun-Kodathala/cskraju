@@ -48,12 +48,15 @@ body{
 }
 #one{
   text-align: center;
+   text-decoration-line: underline;
 }
 #two{
   text-align: center;
+   text-decoration-line: underline;
 }
   #three{
   text-align: center;
+     text-decoration-line: underline;
 }
   
   
