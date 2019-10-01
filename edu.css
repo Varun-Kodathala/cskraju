@@ -9,13 +9,11 @@
 }
 .table{
  
- text-align:center;
- font-size: 1.5em;
-font-family: 'Source Serif Pro', serif;
+  font-family: 'Source Serif Pro', serif;
+  text-align: center;
   margin-top: 2%;
   border-style: solid;
-  padding-left:2%;
-  padding-right:2%; 
+  font-family: 'Alegreya', serif;
 }
 }
 
