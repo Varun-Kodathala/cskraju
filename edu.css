@@ -15,7 +15,7 @@
   font-family: 'Source Serif Pro', serif;
   text-align: center;
   margin-top: 2%;
-/*   border-style: solid; */
+  border-style: solid;
   font-family: 'Alegreya', serif;
 }
 
@@ -27,7 +27,7 @@
 /*   border-style: solid; */
 /*   border: solid black 5px; */
     margin-top:2%;
-  margin-bottom:2%;
+  margin-bottom:100%;
 /*   width:90%; */
 /*   padding-right:8%; */
 /*   padding-left:8%;  */
