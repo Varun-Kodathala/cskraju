@@ -15,8 +15,9 @@ padding-bottom: 2%;
 body{
    background-image: url("edu.jpeg");
   background-repeat: no-repeat,repeat;
-  height: 800px;
+  height: 1000px;
   background-position: center;
   background-size: cover;
+  
   
 }
