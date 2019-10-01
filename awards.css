@@ -1,23 +1,18 @@
 #head1{
-    color: white;
   text-align: center;
   margin-top: 2%;
   font-family: 'Alegreya', serif;
+  color: black;
 
 }
-
-.bots{
-    color: white;
-   
-    
-  background-image: url("awardss.jpg");
+body{
+  /* background-image: url("awardsbag_img.jpg"); */
   background-repeat: no-repeat,repeat;
-  height: 500px;
+  height: 800px;
   background-position: center;
   background-size: cover;
 }
 .container{
-    color: white;
   margin-top: 5%;
   font-style: oblique;
 }
@@ -25,18 +20,12 @@
   color: black;
 } */
 .table.table-bordered{
-      color: white;
-    border:1px solid white;
+    border:1px solid blue;
     margin-top:40px;
   }
 .table.table-bordered > thead > tr > th{
-      color: white;
-    border:1px solid white;
+    border:1px solid black;
 }
 .table.table-bordered > tbody > tr > td{
-      color: white;
-    border:1px solid white;
-}
-#edit{
-    color:white;
+    border:1px solid black;
 }
