@@ -12,8 +12,10 @@ body{
     
 }
 #con{
-  text-align: center;
+text-align: center;
+  margin-top: 2%;
   font-family: 'Alegreya', serif;
-  margin-top:2%;
+  color: black ;
+  border: solid 1px; 
 }
 
