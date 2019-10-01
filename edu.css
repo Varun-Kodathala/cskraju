@@ -3,14 +3,9 @@
   margin-top: 2%;
   font-family: 'Alegreya', serif;
 }
-.table.table-bordered{
-    border:1px solid blue;
-    margin-top:40px;
-  }
-.table.table-bordered > thead > tr > th{
-    border:1px solid black;
+.table{
+ text-align:center;
+ border: solid black 2px;
+ font-size: 1.5em;
+ width: 70%;
 }
-.table.table-bordered > tbody > tr > td{
-    border:1px solid black;
-}
-
