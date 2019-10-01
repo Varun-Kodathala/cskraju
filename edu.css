@@ -8,5 +8,8 @@
  border: solid black 2px;
  font-size: 1.5em;
  width: 90%;
- height:20%;
+
+}
+#row{
+  height:20%;
 }
