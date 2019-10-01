@@ -1,20 +1,25 @@
 #title{
   font-size: 2em;
    text-align: center;
+  text-decoration-line: underline;
+  
 
 }
 .expert{
   font-family: 'Source Serif Pro', serif;
   margin-top: 2%;
   border-style: solid;
+  padding:2%;
 }
 .Publications  {
   font-family: 'Source Serif Pro', serif;
   margin-top: 2%;
   border-style: solid;
+   padding:2%;
 }
  .Books{
   font-family: 'Source Serif Pro', serif;
   margin-top: 2%;
   border-style: solid;
+    padding:2%;
 }
